@@ -7,7 +7,7 @@ authors = [
     { name = "Andrew Zhang", email = "andrewzh@mit.edu" },
     { name = "Paul Doucet", email = "homedoucetpaul@gmail.com" },
 ]
-license = "CC BY-NC-ND 4.0"
+license = "CC-BY-NC-ND-4.0"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
